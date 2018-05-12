@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '4685'
     url: http://www.gutenberg.org/2009/agents/4685
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/40254#Bert-Wilson-s-Twin-Cylinder-Racer
 gutenberg_issued: '2012-07-16'
 gutenberg_type: Text
 identifiers:
